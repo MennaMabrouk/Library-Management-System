@@ -1,0 +1,275 @@
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+D:\2nd_computer\2nd term\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.DashBoard.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.SignUp.resources
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.DashBoard.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.SignUp.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+D:\2nd_computer\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddBook.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ViewStudent.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.ViewStudent.ViewStudent.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\AddStudent.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddStudent.AddStudent.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Properties.viewbook.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.WinFormsApp1.WinFormsApp1.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\issuebookframe.issueBookForm.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.issuebookframe.issuebookframe.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\CompleteBookDetail.CompleteBookDetail.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dashboard_student.resources
+D:\2nd_computer\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.UserControl1.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddBook.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\AddStudent.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddStudent.AddStudent.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\CompleteBookDetail.CompleteBookDetail.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.DashBoard.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dashboard_student.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\issuebookframe.issueBookForm.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.issuebookframe.issuebookframe.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.SignUp.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.UserControl1.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ViewStudent.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.ViewStudent.ViewStudent.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.WinFormsApp1.WinFormsApp1.Properties.Resources.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Properties.viewbook.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDepartment.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDesignation.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormProgramme.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormSession.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.staffForms.FormAddStaff.resources
+D:\2nd_computer\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.userform.FormUser.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddBook.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\AddStudent.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddStudent.AddStudent.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\CompleteBookDetail.CompleteBookDetail.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDepartment.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDesignation.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormProgramme.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormSession.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.DashBoard.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dashboard_student.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\issuebookframe.issueBookForm.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.issuebookframe.issuebookframe.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.SignUp.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.staffForms.FormAddStaff.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.UserControl1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.userform.FormUser.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ViewStudent.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.ViewStudent.ViewStudent.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.WinFormsApp1.WinFormsApp1.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Properties.viewbook.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddBook.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\AddStudent.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddStudent.AddStudent.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\CompleteBookDetail.CompleteBookDetail.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDepartment.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDesignation.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormProgramme.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormSession.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.DashBoard.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dashboard_student.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\issuebookframe.issueBookForm.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.issuebookframe.issuebookframe.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.SignUp.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.staffForms.FormAddStaff.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.UserControl1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.userform.FormUser.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ViewStudent.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.ViewStudent.ViewStudent.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.WinFormsApp1.WinFormsApp1.Properties.Resources.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Properties.viewbook.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+C:\Users\Amal El-Telbany\Downloads\LibraryManagmentSystem (2)\LibraryManagmentSystem (2)\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.exe
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.deps.json
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.runtimeconfig.json
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\library.pdb
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.AssemblyReference.cache
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddBook.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\AddStudent.Form1.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AddStudent.AddStudent.Properties.Resources.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\CompleteBookDetail.CompleteBookDetail.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDepartment.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormDesignation.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormProgramme.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.CongigurationForms.FormSession.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.DashBoard.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dashboard_student.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\issuebookframe.issueBookForm.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.issuebookframe.issuebookframe.Properties.Resources.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.login.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.Properties.Resources.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.SignUp.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.staffForms.FormAddStaff.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.UserControl1.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\LibraryManagementSystem_Amal.Forms.userform.FormUser.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ViewStudent.Form1.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.ViewStudent.ViewStudent.Properties.Resources.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.WinFormsApp1.WinFormsApp1.Properties.Resources.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp1.Properties.viewbook.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.GenerateResource.cache
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfoInputs.cache
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.AssemblyInfo.cs
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CoreCompileInputs.cache
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.csproj.CopyComplete
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\refint\library.dll
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.pdb
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\library.genruntimeconfig.cache
+E:\Kolya\tanya\2ndTerm\DB\Project\LibraryManagmentSystem\LibraryManagmentSystem\library\obj\Debug\net6.0-windows\ref\library.dll
